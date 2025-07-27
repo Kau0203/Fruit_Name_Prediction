@@ -1,0 +1,256 @@
+fruit_name,color,season,average_weight_g,shape,taste,size_cm,is_seeded,skin_type
+apple,green,winter,232,round,sweet,6.5,1,smooth
+banana,yellow,all season,178,long,sweet,19.1,0,peelable
+banana,yellow,all season,113,long,sweet,15.0,0,peelable
+banana,yellow,all season,134,long,sweet,17.3,0,peelable
+apple,red,winter,215,round,sweet,7.1,1,smooth
+mango,green,summer,387,oval,sweet,10.7,1,smooth
+banana,yellow,all season,163,long,sweet,17.9,0,peelable
+orange,orange,winter,209,round,sour,7.4,1,peelable
+watermelon,green,summer,4850,round,sweet,21.8,1,rough
+banana,yellow,all season,172,long,sweet,17.3,0,peelable
+banana,yellow,all season,163,long,sweet,18.7,0,peelable
+orange,orange,winter,164,round,sour,8.1,1,peelable
+mango,yellow,summer,363,oval,sweet,11.2,1,smooth
+banana,yellow,all season,153,long,sweet,16.8,0,peelable
+orange,orange,winter,224,round,sour,8.6,1,peelable
+apple,green,all season,151,round,sweet,7.3,1,smooth
+mango,yellow,summer,244,oval,sweet,12.8,1,smooth
+apple,green,all season,179,round,sweet,7.6,1,smooth
+watermelon,green,summer,3300,round,sweet,28.8,1,rough
+orange,orange,winter,209,round,sour,8.8,1,peelable
+banana,yellow,all season,125,long,sweet,19.9,0,peelable
+mango,green,summer,383,oval,sweet,11.3,1,smooth
+apple,red,winter,162,round,sweet,6.1,1,smooth
+mango,green,summer,265,oval,sweet,11.9,1,smooth
+mango,yellow,summer,270,oval,sweet,12.0,1,smooth
+banana,yellow,all season,120,long,sweet,19.3,0,peelable
+watermelon,green,summer,3952,round,sweet,20.3,1,rough
+apple,green,winter,176,round,sweet,6.4,1,smooth
+grapes,purple,summer,2,round,sweet,1.1,1,smooth
+orange,orange,winter,166,round,sour,7.2,1,peelable
+apple,green,winter,198,round,sweet,6.2,1,smooth
+mango,yellow,summer,293,oval,sweet,13.2,1,smooth
+grapes,green,summer,2,round,sweet,2.0,1,smooth
+banana,yellow,all season,162,long,sweet,15.9,0,peelable
+grapes,purple,winter,3,round,sweet,1.6,1,smooth
+mango,yellow,summer,241,oval,sweet,10.9,1,smooth
+apple,green,all season,185,round,sweet,6.1,1,smooth
+banana,yellow,all season,105,long,sweet,15.8,0,peelable
+apple,red,all season,157,round,sweet,6.5,1,smooth
+banana,yellow,all season,138,long,sweet,17.8,0,peelable
+watermelon,green,summer,4783,round,sweet,22.2,1,rough
+orange,orange,winter,151,round,sour,8.2,1,peelable
+grapes,green,summer,5,round,sweet,1.6,1,smooth
+mango,yellow,summer,493,oval,sweet,12.1,1,smooth
+watermelon,green,summer,4382,round,sweet,21.1,1,rough
+banana,yellow,all season,131,long,sweet,15.7,0,peelable
+watermelon,green,summer,4490,round,sweet,26.1,1,rough
+apple,green,all season,245,round,sweet,7.4,1,smooth
+mango,yellow,summer,447,oval,sweet,13.5,1,smooth
+watermelon,green,summer,3360,round,sweet,25.6,1,rough
+mango,yellow,summer,449,oval,sweet,12.6,1,smooth
+watermelon,green,summer,4694,round,sweet,27.7,1,rough
+watermelon,green,summer,4761,round,sweet,27.1,1,rough
+orange,orange,winter,205,round,sour,8.5,1,peelable
+banana,yellow,all season,134,long,sweet,19.9,0,peelable
+watermelon,green,summer,4555,round,sweet,28.0,1,rough
+banana,yellow,all season,107,long,sweet,18.9,0,peelable
+watermelon,green,summer,3788,round,sweet,26.5,1,rough
+apple,green,winter,189,round,sweet,7.6,1,smooth
+banana,yellow,all season,117,long,sweet,16.4,0,peelable
+grapes,green,winter,3,round,sweet,1.2,1,smooth
+grapes,purple,winter,2,round,sweet,1.5,1,smooth
+mango,yellow,summer,215,oval,sweet,13.9,1,smooth
+apple,red,winter,189,round,sweet,7.9,1,smooth
+banana,yellow,all season,156,long,sweet,17.9,0,peelable
+orange,orange,winter,204,round,sour,6.5,1,peelable
+apple,green,all season,223,round,sweet,6.3,1,smooth
+banana,yellow,all season,110,long,sweet,15.9,0,peelable
+banana,yellow,all season,138,long,sweet,16.9,0,peelable
+banana,yellow,all season,167,long,sweet,18.3,0,peelable
+banana,yellow,all season,149,long,sweet,18.6,0,peelable
+mango,yellow,summer,436,oval,sweet,10.4,1,smooth
+mango,green,summer,353,oval,sweet,13.4,1,smooth
+watermelon,green,summer,4981,round,sweet,26.2,1,rough
+orange,orange,winter,240,round,sour,6.1,1,peelable
+banana,yellow,all season,125,long,sweet,19.2,0,peelable
+apple,red,winter,184,round,sweet,6.6,1,smooth
+mango,yellow,summer,471,oval,sweet,12.3,1,smooth
+apple,green,winter,185,round,sweet,7.0,1,smooth
+apple,red,all season,160,round,sweet,6.7,1,smooth
+banana,yellow,all season,175,long,sweet,16.0,0,peelable
+banana,yellow,all season,102,long,sweet,15.7,0,peelable
+mango,green,summer,383,oval,sweet,11.0,1,smooth
+banana,yellow,all season,120,long,sweet,16.6,0,peelable
+apple,red,winter,249,round,sweet,7.6,1,smooth
+banana,yellow,all season,154,long,sweet,18.0,0,peelable
+orange,orange,winter,195,round,sour,7.3,1,peelable
+apple,red,all season,168,round,sweet,6.0,1,smooth
+banana,yellow,all season,117,long,sweet,16.7,0,peelable
+apple,red,winter,151,round,sweet,6.3,1,smooth
+banana,yellow,all season,156,long,sweet,15.3,0,peelable
+watermelon,green,summer,4782,round,sweet,21.3,1,rough
+banana,yellow,all season,165,long,sweet,15.1,0,peelable
+orange,orange,winter,170,round,sour,7.4,1,peelable
+apple,green,all season,249,round,sweet,7.5,1,smooth
+watermelon,green,summer,3694,round,sweet,28.5,1,rough
+apple,red,all season,232,round,sweet,7.6,1,smooth
+mango,yellow,summer,430,oval,sweet,10.9,1,smooth
+banana,yellow,all season,100,long,sweet,15.0,0,peelable
+banana,yellow,all season,142,long,sweet,19.2,0,peelable
+banana,yellow,all season,171,long,sweet,17.5,0,peelable
+mango,green,summer,214,oval,sweet,11.7,1,smooth
+watermelon,green,summer,3006,round,sweet,24.9,1,rough
+banana,yellow,all season,152,long,sweet,18.2,0,peelable
+orange,orange,winter,193,round,sour,7.9,1,peelable
+watermelon,green,summer,4983,round,sweet,20.1,1,rough
+orange,orange,winter,166,round,sour,7.3,1,peelable
+banana,yellow,all season,102,long,sweet,18.3,0,peelable
+apple,red,winter,172,round,sweet,7.4,1,smooth
+apple,green,winter,247,round,sweet,7.4,1,smooth
+banana,yellow,all season,128,long,sweet,17.9,0,peelable
+grapes,green,summer,4,round,sweet,1.2,1,smooth
+apple,red,all season,186,round,sweet,7.2,1,smooth
+banana,yellow,all season,176,long,sweet,16.9,0,peelable
+banana,yellow,all season,106,long,sweet,19.6,0,peelable
+grapes,green,winter,4,round,sweet,1.6,1,smooth
+apple,green,winter,211,round,sweet,6.6,1,smooth
+apple,green,winter,213,round,sweet,6.6,1,smooth
+grapes,purple,summer,4,round,sweet,1.9,1,smooth
+mango,yellow,summer,248,oval,sweet,10.8,1,smooth
+grapes,green,summer,4,round,sweet,1.6,1,smooth
+banana,yellow,all season,102,long,sweet,16.9,0,peelable
+watermelon,green,summer,4261,round,sweet,22.3,1,rough
+watermelon,green,summer,3478,round,sweet,29.5,1,rough
+banana,yellow,all season,158,long,sweet,19.2,0,peelable
+mango,yellow,summer,269,oval,sweet,10.8,1,smooth
+grapes,green,summer,3,round,sweet,1.5,1,smooth
+mango,yellow,summer,207,oval,sweet,10.7,1,smooth
+apple,red,winter,158,round,sweet,6.9,1,smooth
+banana,yellow,all season,153,long,sweet,17.3,0,peelable
+apple,red,all season,220,round,sweet,6.4,1,smooth
+mango,green,summer,240,oval,sweet,13.3,1,smooth
+mango,green,summer,404,oval,sweet,13.9,1,smooth
+mango,green,summer,489,oval,sweet,12.7,1,smooth
+banana,yellow,all season,176,long,sweet,19.8,0,peelable
+banana,yellow,all season,179,long,sweet,19.9,0,peelable
+apple,green,winter,180,round,sweet,6.8,1,smooth
+apple,green,winter,249,round,sweet,8.0,1,smooth
+banana,yellow,all season,127,long,sweet,16.4,0,peelable
+apple,red,winter,167,round,sweet,7.8,1,smooth
+mango,yellow,summer,461,oval,sweet,11.6,1,smooth
+mango,yellow,summer,333,oval,sweet,13.1,1,smooth
+orange,orange,winter,188,round,sour,6.3,1,peelable
+grapes,green,summer,5,round,sweet,1.2,1,smooth
+orange,orange,winter,156,round,sour,8.9,1,peelable
+watermelon,green,summer,4512,round,sweet,25.8,1,rough
+mango,green,summer,272,oval,sweet,10.6,1,smooth
+watermelon,green,summer,2878,round,sweet,20.1,1,rough
+apple,green,winter,174,round,sweet,7.3,1,smooth
+banana,yellow,all season,129,long,sweet,19.8,0,peelable
+mango,green,summer,399,oval,sweet,10.7,1,smooth
+apple,red,winter,184,round,sweet,6.6,1,smooth
+mango,yellow,summer,213,oval,sweet,10.7,1,smooth
+banana,yellow,all season,157,long,sweet,17.2,0,peelable
+apple,red,all season,229,round,sweet,6.1,1,smooth
+mango,yellow,summer,384,oval,sweet,11.8,1,smooth
+apple,red,winter,160,round,sweet,6.4,1,smooth
+banana,yellow,all season,173,long,sweet,15.8,0,peelable
+banana,yellow,all season,130,long,sweet,17.4,0,peelable
+banana,yellow,all season,112,long,sweet,16.8,0,peelable
+apple,green,winter,170,round,sweet,6.4,1,smooth
+apple,green,all season,172,round,sweet,8.0,1,smooth
+mango,green,summer,328,oval,sweet,12.7,1,smooth
+watermelon,green,summer,2587,round,sweet,21.6,1,rough
+orange,orange,winter,176,round,sour,6.8,1,peelable
+apple,green,winter,243,round,sweet,8.0,1,smooth
+watermelon,green,summer,4947,round,sweet,25.8,1,rough
+banana,yellow,all season,147,long,sweet,17.2,0,peelable
+banana,yellow,all season,140,long,sweet,17.5,0,peelable
+banana,yellow,all season,104,long,sweet,19.7,0,peelable
+apple,green,winter,210,round,sweet,7.3,1,smooth
+orange,orange,winter,202,round,sour,8.2,1,peelable
+apple,green,all season,224,round,sweet,7.0,1,smooth
+grapes,green,summer,2,round,sweet,1.4,1,smooth
+watermelon,green,summer,4606,round,sweet,27.1,1,rough
+orange,orange,winter,188,round,sour,6.2,1,peelable
+watermelon,green,summer,3283,round,sweet,25.5,1,rough
+orange,orange,winter,245,round,sour,8.6,1,peelable
+mango,green,summer,330,oval,sweet,13.8,1,smooth
+orange,orange,winter,211,round,sour,7.6,1,peelable
+apple,green,all season,223,round,sweet,6.6,1,smooth
+mango,green,summer,413,oval,sweet,13.0,1,smooth
+mango,green,summer,404,oval,sweet,14.3,1,smooth
+banana,yellow,all season,102,long,sweet,19.9,0,peelable
+banana,yellow,all season,144,long,sweet,16.5,0,peelable
+orange,orange,winter,175,round,sour,7.8,1,peelable
+watermelon,green,summer,2678,round,sweet,24.7,1,rough
+orange,orange,winter,170,round,sour,6.0,1,peelable
+banana,yellow,all season,133,long,sweet,19.1,0,peelable
+apple,red,winter,198,round,sweet,7.9,1,smooth
+grapes,green,winter,2,round,sweet,2.0,1,smooth
+banana,yellow,all season,172,long,sweet,19.3,0,peelable
+watermelon,green,summer,2642,round,sweet,29.4,1,rough
+grapes,purple,winter,5,round,sweet,1.9,1,smooth
+banana,yellow,all season,110,long,sweet,15.1,0,peelable
+mango,yellow,summer,319,oval,sweet,12.1,1,smooth
+watermelon,green,summer,4944,round,sweet,27.6,1,rough
+apple,green,all season,167,round,sweet,8.0,1,smooth
+watermelon,green,summer,4239,round,sweet,28.5,1,rough
+apple,green,all season,235,round,sweet,7.3,1,smooth
+banana,yellow,all season,146,long,sweet,16.1,0,peelable
+banana,yellow,all season,148,long,sweet,16.5,0,peelable
+orange,orange,winter,201,round,sour,6.1,1,peelable
+grapes,green,summer,3,round,sweet,1.1,1,smooth
+banana,yellow,all season,154,long,sweet,16.3,0,peelable
+watermelon,green,summer,2334,round,sweet,28.9,1,rough
+watermelon,green,summer,4266,round,sweet,26.0,1,rough
+watermelon,green,summer,3578,round,sweet,26.1,1,rough
+orange,orange,winter,235,round,sour,7.5,1,peelable
+apple,green,all season,241,round,sweet,6.4,1,smooth
+apple,green,all season,178,round,sweet,7.9,1,smooth
+apple,red,winter,192,round,sweet,6.4,1,smooth
+apple,red,winter,215,round,sweet,7.5,1,smooth
+grapes,green,winter,2,round,sweet,1.3,1,smooth
+apple,green,winter,248,round,sweet,7.7,1,smooth
+banana,yellow,all season,135,long,sweet,16.0,0,peelable
+mango,green,summer,383,oval,sweet,12.3,1,smooth
+apple,red,winter,206,round,sweet,7.6,1,smooth
+watermelon,green,summer,2232,round,sweet,28.4,1,rough
+watermelon,green,summer,3522,round,sweet,22.3,1,rough
+orange,orange,winter,205,round,sour,7.8,1,peelable
+banana,yellow,all season,154,long,sweet,17.9,0,peelable
+orange,orange,winter,175,round,sour,7.4,1,peelable
+mango,yellow,summer,216,oval,sweet,11.1,1,smooth
+orange,orange,winter,166,round,sour,6.4,1,peelable
+orange,orange,winter,228,round,sour,8.2,1,peelable
+grapes,green,winter,5,round,sweet,1.2,1,smooth
+apple,red,winter,245,round,sweet,7.3,1,smooth
+watermelon,green,summer,2193,round,sweet,28.1,1,rough
+apple,red,all season,186,round,sweet,6.8,1,smooth
+orange,orange,winter,242,round,sour,7.5,1,peelable
+mango,green,summer,443,oval,sweet,14.5,1,smooth
+apple,red,all season,164,round,sweet,7.4,1,smooth
+mango,green,summer,251,oval,sweet,10.7,1,smooth
+banana,yellow,all season,132,long,sweet,19.2,0,peelable
+banana,yellow,all season,147,long,sweet,16.9,0,peelable
+grapes,green,winter,2,round,sweet,1.4,1,smooth
+apple,green,all season,246,round,sweet,7.6,1,smooth
+apple,red,winter,202,round,sweet,6.3,1,smooth
+mango,green,summer,497,oval,sweet,11.3,1,smooth
+mango,yellow,summer,440,oval,sweet,12.3,1,smooth
+apple,red,winter,221,round,sweet,8.0,1,smooth
+banana,yellow,all season,165,long,sweet,15.5,0,peelable
+banana,yellow,all season,110,long,sweet,17.9,0,peelable
+orange,orange,winter,176,round,sour,8.8,1,peelable
+mango,yellow,summer,229,oval,sweet,12.0,1,smooth
+mango,yellow,summer,245,oval,sweet,12.9,1,smooth
+banana,yellow,all season,158,long,sweet,17.7,0,peelable
+orange,orange,winter,150,round,sour,6.6,1,peelable
+mango,yellow,summer,488,oval,sweet,11.9,1,smooth
+banana,yellow,all season,150,long,sweet,17.6,0,peelable
+orange,orange,winter,187,round,sour,6.3,1,peelable
+watermelon,green,summer,3716,round,sweet,21.5,1,rough
+orange,orange,winter,180,round,sour,7.2,1,peelable
+banana,yellow,all season,124,long,sweet,17.6,0,peelable
